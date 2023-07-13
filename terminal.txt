@@ -9,3 +9,5 @@ chmod	-> Permisos (777)
 rm 		-> Eliminar archivo o carpeta (vacío)
 rm -rf	-> Eliminar archivo o carpeta (no vacío)
 rmdir	-> Eliminar carpeta
+
+este es un cambio
